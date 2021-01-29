@@ -9,8 +9,8 @@
 #define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
 
 /*Put your SSID & Password*/
-const char* ssid = "iot_home";  // Enter SSID here
-const char* password = "@j0o0s0e0_iot";  //Enter Password here
+const char* ssid = xxx;  // Enter SSID here
+const char* password = xxx;  //Enter Password here
 
 
 
